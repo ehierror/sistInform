@@ -1,0 +1,44 @@
+mensajes_prompts.txt — registro de prompts del chat
+=================================================
+
+NOTA:
+- Incluye todos los mensajes del chat hasta el momento.
+- Para “prompts futuros”, dejo una sección al final para ir añadiéndolos.
+
+--- HISTÓRICO (hasta ahora) ---
+
+[U1]
+En la carpeta proyFinalM, mi inteción es realizar una aplicación  usando (separado por componentes) el modelo vista-controlador una app de una autoescuela que tanga una sección de tests de autoescuela... Empieza por las bases y las iremos refinando poco a poco
+
+[U2]
+tiene que cumplir la metodologia profesional memory bank, el modelo actual la cumple? en caso contrario haz las modificaciones pertienentes para que las cumpla
+
+[U3]
+a ver...puedes borrar todo lo que tenemos? vas a ir paso por paso
+
+[U4]
+el chat al cerrar cursor se pierde?
+
+[U5]
+vale, usando el odelo vista controlador y memory bank (solo queremos productContext,systemPatterns,activeContext,progress), por ahora solo crea eso (ningun archivo de program ni nada), vamos a ir asentando base pro base (pueds crear un txt con mensajes_prompts donde pones todos los prompts pasados y futuros de este chat? (incluyendo este))
+
+--- AÑADIR AQUÍ LOS PRÓXIMOS PROMPTS ---
+
+[U6]
+vale, debemos crear 3 componentes distintos el test, el resultado, las imgs, integrar cada componente de forma capsulada
+
+[U7]
+Arquitectura donde components.js solo tiene funciones puras que devuelven HTML y app.js maneja la lógica.
+
+[U8]
+vale, ahora que tenemos los cimientos hechos, intnta desarrollar una versión
+
+[U9]
+y no se deberia organizar los archivos? (por ej carpeta js, carpeta estilo de css...)
+
+[U10]
+la señal de stop no funciona
+
+[U11]
+modifica la web respecto a lo que pide productContext.md
+
