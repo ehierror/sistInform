@@ -16,6 +16,9 @@ body{
     radial-gradient(1200px 600px at 20% 0%, rgba(124,92,255,.25), transparent 60%),
     radial-gradient(900px 500px at 80% 20%, rgba(45,212,191,.18), transparent 60%),
     var(--bg);
+  background-repeat:no-repeat;
+  background-size:1400px 800px, 1100px 700px, auto;
+  background-attachment:fixed;
   color:var(--text);
 }
 .container{width:min(980px,calc(100% - 32px));margin:0 auto}
