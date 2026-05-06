@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640">
+  <rect width="640" height="640" fill="#0b1020"/>
+  <g transform="translate(320 320)">
+    <polygon points="-140,-220 140,-220 220,-140 220,140 140,220 -140,220 -220,140 -220,-140"
+             fill="#ef4444" stroke="#ffffff" stroke-width="18"/>
+    <text x="0" y="20" text-anchor="middle"
+          font-family="Segoe UI, Arial, sans-serif" font-size="96" font-weight="800"
+          fill="#ffffff">STOP</text>
+  </g>
+</svg>
+
